@@ -1,4 +1,4 @@
-html {
+  html {
   background-color: white;
   font-family: "Roboto";
 }
@@ -91,7 +91,7 @@ header .content h1 {
 
 #investment-section {
   background-size: cover;
-  background-image: url("../company homepage/Images/jonathan-fors-Zr9T2R5KJaQ-unsplash.jpg");
+  background-image: url("../company homepage/quino-al-JFeOy62yjXk-unsplash.jpg");
   max-width: 100%;
   height: auto;
   margin: 0 auto;
@@ -119,7 +119,7 @@ header .content h1 {
   text-align: center;
   font-weight: 700;
   font-size: 18px;
-  color: black;
+  color: white;
   margin: 0 auto;
   width: 100px;
   height: 100px;
